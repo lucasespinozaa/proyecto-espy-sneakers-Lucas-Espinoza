@@ -12,5 +12,5 @@ EspySneakers es un sitio web para los amantes de los sneakers y el streetwear. E
 - CSS3 para el diseño responsivo y estilización.
 - Font Awesome para los íconos.
 - Google Fonts para las fuentes.
-
+- JavaScript para la dinamica del sitio web.
 
